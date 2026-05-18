@@ -1,3 +1,3 @@
-# kubernetes basics
+# Kubernetes Basics
 
-Learning notes and exercises for kubernetes basics.
+Learning notes and exercises for Kubernetes Basics.

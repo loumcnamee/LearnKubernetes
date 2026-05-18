@@ -1,3 +1,3 @@
-# security
+# Security
 
-Learning notes and exercises for security.
+Learning notes and exercises for Security.

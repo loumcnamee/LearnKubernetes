@@ -1,3 +1,3 @@
-# storage
+# Storage
 
-Learning notes and exercises for storage.
+Learning notes and exercises for Storage.

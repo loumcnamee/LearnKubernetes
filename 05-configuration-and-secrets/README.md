@@ -1,3 +1,3 @@
-# configuration and secrets
+# Configuration and Secrets
 
-Learning notes and exercises for configuration and secrets.
+Learning notes and exercises for Configuration and Secrets.

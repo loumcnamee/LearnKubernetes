@@ -1,3 +1,3 @@
-# cluster architecture
+# Cluster Architecture
 
-Learning notes and exercises for cluster architecture.
+Learning notes and exercises for Cluster Architecture.

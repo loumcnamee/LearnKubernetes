@@ -1,3 +1,3 @@
-# objects and workloads
+# Objects and Workloads
 
-Learning notes and exercises for objects and workloads.
+Learning notes and exercises for Objects and Workloads.

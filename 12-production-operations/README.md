@@ -1,3 +1,3 @@
-# production operations
+# Production Operations
 
-Learning notes and exercises for production operations.
+Learning notes and exercises for Production Operations.

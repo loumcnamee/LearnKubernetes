@@ -1,3 +1,3 @@
-# networking
+# Networking
 
-Learning notes and exercises for networking.
+Learning notes and exercises for Networking.

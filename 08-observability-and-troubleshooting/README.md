@@ -1,3 +1,3 @@
-# observability and troubleshooting
+# Observability and Troubleshooting
 
-Learning notes and exercises for observability and troubleshooting.
+Learning notes and exercises for Observability and Troubleshooting.

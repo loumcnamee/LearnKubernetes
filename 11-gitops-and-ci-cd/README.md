@@ -1,3 +1,3 @@
-# gitops and ci cd
+# GitOps and CI/CD
 
-Learning notes and exercises for gitops and ci cd.
+Learning notes and exercises for GitOps and CI/CD.

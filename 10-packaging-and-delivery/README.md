@@ -1,3 +1,3 @@
-# packaging and delivery
+# Packaging and Delivery
 
-Learning notes and exercises for packaging and delivery.
+Learning notes and exercises for Packaging and Delivery.

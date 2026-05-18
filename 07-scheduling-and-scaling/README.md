@@ -1,3 +1,3 @@
-# scheduling and scaling
+# Scheduling and Scaling
 
-Learning notes and exercises for scheduling and scaling.
+Learning notes and exercises for Scheduling and Scaling.
